@@ -1,8 +1,11 @@
 
+import Chai from "./chai"
 function App() {
   return (
-    <h1>Hi chai aur code | Akash kumar maurya</h1>
+    <>
+      <Chai />
+      <h1>hi this is react course</h1>
+    </>
   )
 }
-
 export default App
